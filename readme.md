@@ -86,3 +86,5 @@ The production-ready files will be output to the `dist/` directory.
    The backend API will be available at `http://localhost:4001` (or another port specified in `index.js`).
 
 ![alt text](<test.png>)
+![alt text](<render_backend.png>)
+![alt text](<vercel.png>)
