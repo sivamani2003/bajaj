@@ -43,7 +43,7 @@ const DataForm = ({ setResponse }) => {
                 <textarea
                     value={jsonInput}
                     onChange={(e) => setJsonInput(e.target.value)}
-                    placeholder='{"data": ["7", "H", "k", "R", "18"]'
+                    placeholder='{"data": ["7", "H", "k", "R", "18"]}'
                     rows="10"
                     cols="50"
                     className="w-full p-2 border border-gray-300 rounded"
