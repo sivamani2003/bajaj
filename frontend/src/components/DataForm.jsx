@@ -23,7 +23,7 @@ const DataForm = ({ setResponse }) => {
                 return;
             }
 
-            const response = await axios.post('http://localhost:4001/bfhl', {
+            const response = await axios.post('https://bajaj-65le.onrender.com/bfhl', {
                 data,
                 user_id,
                 email,
